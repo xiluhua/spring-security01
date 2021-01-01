@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-discovery01/distributed-security-discovery01.iml" filepath="$PROJECT_DIR$/distributed-security-discovery01/distributed-security-discovery01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-gateway01/distributed-security-gateway01.iml" filepath="$PROJECT_DIR$/distributed-security-gateway01/distributed-security-gateway01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-order01/distributed-security-order01.iml" filepath="$PROJECT_DIR$/distributed-security-order01/distributed-security-order01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-order01-jwt/distributed-security-order01-jwt.iml" filepath="$PROJECT_DIR$/distributed-security-order01-jwt/distributed-security-order01-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-order01-jwt-enreka/distributed-security-order01-jwt-enreka.iml" filepath="$PROJECT_DIR$/distributed-security-order01-jwt-enreka/distributed-security-order01-jwt-enreka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-order01-jwt-enreka-improveUsername/distributed-security-order01-jwt-enreka-improveUsername.iml" filepath="$PROJECT_DIR$/distributed-security-order01-jwt-enreka-improveUsername/distributed-security-order01-jwt-enreka-improveUsername.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-uaa01/distributed-security-uaa01.iml" filepath="$PROJECT_DIR$/distributed-security-uaa01/distributed-security-uaa01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-uaa01-jwt/distributed-security-uaa01-jwt.iml" filepath="$PROJECT_DIR$/distributed-security-uaa01-jwt/distributed-security-uaa01-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb/distributed-security-uaa01-jwt-configInDb.iml" filepath="$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb/distributed-security-uaa01-jwt-configInDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb-eureka/distributed-security-uaa01-jwt-configInDb-eureka.iml" filepath="$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb-eureka/distributed-security-uaa01-jwt-configInDb-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb-eureka-improveUsername/distributed-security-uaa01-jwt-configInDb-eureka-improveUsername.iml" filepath="$PROJECT_DIR$/distributed-security-uaa01-jwt-configInDb-eureka-improveUsername/distributed-security-uaa01-jwt-configInDb-eureka-improveUsername.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-security01.iml" filepath="$PROJECT_DIR$/distributed-security01.iml" />
+    </modules>
+  </component>
+</project>

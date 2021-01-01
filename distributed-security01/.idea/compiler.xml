@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="distributed-security-discovery01" />
+        <module name="distributed-security-gateway01" />
+        <module name="distributed-security-order01" />
+        <module name="distributed-security-order01-jwt" />
+        <module name="distributed-security-order01-jwt-enreka" />
+        <module name="distributed-security-order01-jwt-enreka-improveUsername" />
+        <module name="distributed-security-uaa01" />
+        <module name="distributed-security-uaa01-jwt" />
+        <module name="distributed-security-uaa01-jwt-configInDb" />
+        <module name="distributed-security-uaa01-jwt-configInDb-eureka" />
+        <module name="distributed-security-uaa01-jwt-configInDb-eureka-improveUsername" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="distributed-security-discovery01" target="1.8" />
+      <module name="distributed-security-gateway01" target="1.8" />
+      <module name="distributed-security-order01" target="1.8" />
+      <module name="distributed-security-order01-jwt" target="1.8" />
+      <module name="distributed-security-order01-jwt-enreka" target="1.8" />
+      <module name="distributed-security-order01-jwt-enreka-improveUsername" target="1.8" />
+      <module name="distributed-security-uaa01" target="1.8" />
+      <module name="distributed-security-uaa01-jwt" target="1.8" />
+      <module name="distributed-security-uaa01-jwt-configInDb" target="1.8" />
+      <module name="distributed-security-uaa01-jwt-configInDb-eureka" target="1.8" />
+      <module name="distributed-security-uaa01-jwt-configInDb-eureka-improveUsername" target="1.8" />
+      <module name="distributed-security01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
